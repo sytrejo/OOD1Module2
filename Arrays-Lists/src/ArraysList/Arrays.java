@@ -42,4 +42,9 @@ public class Arrays {
 		
 	}
 
+	public static char[] toString(String[] pokerHand) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
