@@ -10,7 +10,7 @@ public class Arrays {
 		//Display the number of friends in the array
 		System.out.println(friends.length);
 		
-		//Dispaly each name in the array on a separate line
+		//Display each name in the array on a separate line
 		System.out.println(friends[0]);
 		System.out.println(friends[1]);
 		System.out.println(friends[2]);
@@ -21,7 +21,7 @@ public class Arrays {
 		friends[4] = "Tony";
 		
 		//Sort the array
-		Arrays.sort(friends);
+//		Arrays.sort(friends);
 		
 		//Display the first person in the array.
 		System.out.println(friends[0]);
@@ -37,14 +37,10 @@ public class Arrays {
 		
 	}
 
-	private static void sort(String[] friends) {
-		// TODO Auto-generated method stub
-		
-	}
+//	private static void sort(String[] friends) {
+//		
+//	}
 
-	public static char[] toString(String[] pokerHand) {
-		// TODO Auto-generated method stub
-		return null;
-	}
+
 
 }

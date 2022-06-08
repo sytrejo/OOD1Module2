@@ -24,7 +24,7 @@ public class PokerHand {
 		}
 		
 		//print out the whole array
-		System.out.println(Arrays.toString(pokerHand));
+//		System.out.println(Arrays.toString(pokerHand));
 
 
 
